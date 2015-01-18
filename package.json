@@ -1,0 +1,30 @@
+{
+  "name": "kyu",
+  "version": "1.0.0",
+  "description": "Engine for the 3x3 grid card game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davismj/kyu"
+  },
+  "keywords": [
+    "game",
+    "ecmascript6"
+  ],
+  "author": "Matthew James Davis",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/davismj/kyu/issues"
+  },
+  "homepage": "https://github.com/davismj/kyu",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "browserify": "x.x.x",
+    "6to5ify": "x.x.x"
+  }
+}
